@@ -4,9 +4,9 @@
 Right now, I'm just exploring and learning technology<br>
 I'm an open source enthusiast and keen to build projects together</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Prit33&label=Profile%20views&color=0e75b6&style=flat" alt="Prit33" /> </p>
-<a href="https://github.com/Prit33"><img alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=Prit33&show_icons=true&hide=stars&theme=tokyonight"></a><br>
-<a href="https://github.com/Prit33"><img alt="My Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prit33&layout=compact&theme=tokyonight&card_width=250"></a><br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sugan0tech&label=Profile%20views&color=0e75b6&style=flat" alt="Prit33" /> </p>
+<a href="https://github.com/Prit33"><img alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=sugan0tech&show_icons=true&hide=stars&theme=tokyonight"></a><br>
+<a href="https://github.com/Prit33"><img alt="My Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sugan0tech&layout=compact&theme=tokyonight&card_width=250"></a><br>
 
 <h2>I am currently working on-</h2>
 - Web development<br> 
