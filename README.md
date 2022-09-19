@@ -21,3 +21,4 @@ I'm an open source enthusiast and keen to build projects together</p>
 <a href="www.linkedin.com/in/sugankpms" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="50" width="50" /></a> &nbsp;&nbsp;
 </p>
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=sugan0tech)](https://git.io/streak-stats)
