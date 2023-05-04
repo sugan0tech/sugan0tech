@@ -1,6 +1,6 @@
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=sugan0tech)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=sugan0tech&theme=transparent&hide_border=true&mode=weekly)](https://git.io/streak-stats)
 ### 💬 My Social Handles
 
 <p align = "left">
