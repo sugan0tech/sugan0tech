@@ -6,14 +6,14 @@ Hi there! I'm Sugavanesh, just a guy looking to make my developer workflow more 
 
 ## 🔭 What I'm Currently Working On
 
-- [EventManager](https://github.com/sugan0tech/Event-Manager): A backend service for [student_task_manager](https://github.com/SriGiriT/student_task_manager).
+- Just here and there at randome repos you can find it on my board.
 
 ## 🌱 What I'm Currently Learning
 
 I'm currently focusing on enhancing my skills in:
 
 - Spring Framework: Developing some projects with it and further more in future.
-- JAVA: Wanna be pro in it.
+- CLI interfaces: Trying to reimagine a terminal
 - Kotlin: Got interested in it, need to use it for Spring and Android development.
 - Lua: Planing on improving my development environment by using scripts on lua (vim etc).
 
