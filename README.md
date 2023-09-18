@@ -17,12 +17,6 @@ I'm currently focusing on enhancing my skills in:
 - Kotlin: Got interested in it, need to use it for Spring and Android development.
 - Lua: Planing on improving my development environment by using scripts on lua (vim etc).
 
-## 💼 Professional Experience
-
-- RCT pvt limited:  made some automations in python, CDN integration and a CLi application.
-
-For a detailed overview of my experience, please visit my [LinkedIn profile](https://www.linkedin.com/in/sugan0tech).
-
 ## 📚 Featured Projects
 
 Here are some of my notable projects:
