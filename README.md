@@ -5,8 +5,9 @@
 Hi there! I'm Sugavanesh, just a guy looking to make my developer workflow more awesome, build projects, understand computers, and ultimately craft really awesome software.
 
 
-## 🌱 What I'm Currently Dstatus
+## 🌱 Status now
 
+- Noobing into OSS contributions 
 - In a full-time internship won't be frequent here though.
 - Spring Framework: Developing some projects with it and furthermore in the future.
 - CLI interfaces: Trying to reimagine a terminal
@@ -17,7 +18,7 @@ Hi there! I'm Sugavanesh, just a guy looking to make my developer workflow more 
 
 Here are some of my notable projects:
 
-- [EventManager](https://github.com/sugan0tech/Event-Manager): A backend service for [student_task_manager](https://github.com/SriGiriT/student_task_manager).Completely new attendance and event management architecture suitable for my university.
+- [EventManager](https://github.com/sugan0tech/Event-Manager): A backend service for [student_task_manager](https://github.com/SriGiriT/student_task_manager).Completely new attendance and event management architecture suitable for universities.
 - [Liber](https://github.com/sugan0tech/liber): Simple desktop application built using core-java
 - [StudentWorkspace](https://github.com/sugan0tech/student-workspace): Google classroom alternative built with express and MongoDB
 
