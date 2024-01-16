@@ -30,12 +30,3 @@ Here are some of my notable projects:
 
 You can find more details about these projects and other contributions in my repositories below.
 
-## How to Reach Me
-
-Feel free to reach out to me through the following channels:
-
-- Email: sugankpms@gmail.com
-- LinkedIn: [Sugavanesh](https://www.linkedin.com/in/sugan0tech)
-
----
-
