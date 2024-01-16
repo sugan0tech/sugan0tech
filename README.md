@@ -6,7 +6,7 @@ I'm a passionate backend developer with a strong inclination towards open-source
 
 ## Tech Stack
 
-- Primary skills: Spring, Ruby on Rails, Express SQL, Core Java
+- Primary skills: Spring, Ruby on Rails, Express SQL, Core Java and Go.
 - Personal Development Environment (PDE) enthusiast, with custom-configured applications and environment tools for an optimized workflow
 - Proficient in high-speed typing and adept at tiling window manager usage
 
