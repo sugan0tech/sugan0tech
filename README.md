@@ -22,6 +22,6 @@ I’m constantly exploring the connections between **programming, science, and n
   - [TmuxCraft](https://github.com/sugan0tech/tmuxcraft): A Tmuxifier alternative written in Go—making session management a breeze.
   - [Capstone](https://github.com/sugan0tech/capstone): My biggest project so far! It’s a full-stack app built with React + .NET.
 
-Wanna see the magic? Check out my [GitHub](https://github.com/sugan0tech). Let’s build something epic! 
+Wanna see the magic? Check out my [repos](https://github.com/sugan0tech?tab=repositories). Let’s build something epic! 
 
 ![Me Grinding](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2VkNTFmNnk4YXF0M3I2ZGUwOTZrZXZ3ODJqN2U2czlvemx6YXhlYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif)
